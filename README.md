@@ -38,8 +38,6 @@ On my GitHub, you'll find a diverse collection of projects. Each project is a wi
 
 Feel free to dive into my repositories to explore the work I've done and the progress I've made in my journey as a developer!
 
-[➡️ Visit My Repositories](https://github.com/Mrpowersz)
-
 <!--
 **Mrpowersz/Mrpowersz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
