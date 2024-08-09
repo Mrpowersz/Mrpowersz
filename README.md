@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I specialize in C# development, focusing primarily
   <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/Ruby%20On%20Rails-20232A?style=for-the-badge&logo=ruby&logoColor=cc0000"/></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white"/></a>
 </p>
 
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lauris-rabenau-2851112ba/)
